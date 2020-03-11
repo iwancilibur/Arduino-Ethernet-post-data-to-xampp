@@ -1,0 +1,4 @@
+# Arduino-Ethernet-post-data-to-xampp
+Logging data to Database using Arduino Ethernet shield In this project,
+we will be logging data to database using Arduino Ethernet shield. We will store the data of the DHT22 temperature and humidity sensor in the database and we will then show this on the webpage.  For creating the database, we will use the Xampp server and we will then send the data from the Arduino using the Ethernet shield through the internet router.  This data will get stored in the database and we can access this data anytime we want. We will also create a webpage that will show this data.  Required Components The components required for logging data to database using Arduino Ethernet shield are as follows  Arduino Uno Arduino Ethernet Shield DHT22 Temperature and Humidity sensor Ethernet Cable Connecting Wires Breadboard
+https://electronicshobbyists.com/logging-data-to-database-using-arduino-ethernet-shield/
